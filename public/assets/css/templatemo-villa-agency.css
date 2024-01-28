@@ -397,8 +397,9 @@ Header Style
 }
 
 .header-area .main-nav {
-  background: transparent;
+  background: gray;
   display: flex;
+  padding: 10px;
 }
 
 .header-area .main-nav .logo {
@@ -441,8 +442,8 @@ Header Style
 .header-area .main-nav .nav li {
   padding-left: 10px;
   padding-right: 10px;
-  height: 100px;
-  line-height: 100px;
+  height: 20px;
+  line-height: 10px;
 }
 
 .header-area .main-nav .nav li a {
